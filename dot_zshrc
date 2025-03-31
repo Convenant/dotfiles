@@ -12,11 +12,11 @@ COMPLETION_WAITING_DOTS="%F{yellow}waiting...%f"
 
 # Plugins (optimized for speed)
 plugins=(
-  git 
-  macos 
-  brew 
-  web-search 
-  zsh-syntax-highlighting 
+  git
+  macos
+  brew
+  web-search
+  zsh-syntax-highlighting
   colored-man-pages
 )
 
