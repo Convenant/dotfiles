@@ -1,0 +1,2 @@
+# brewfile
+mymacs brew
